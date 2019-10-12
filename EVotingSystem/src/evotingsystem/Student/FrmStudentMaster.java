@@ -10,7 +10,7 @@ import javax.swing.JOptionPane;
 import javax.swing.table.DefaultTableModel;
 import javax.swing.table.TableModel;
 import net.proteanit.sql.DbUtils;
-
+//test
 public final class FrmStudentMaster extends javax.swing.JFrame {
 DatabaseConnection cnn = new DatabaseConnection();
     public FrmStudentMaster() {
